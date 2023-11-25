@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".gradle/**": true,
+    "gradle/**": true,
+    "settings.gradle": true,
+    "gradlew**": true,
+    "LICENSE": true,
+    "README.md": true,
+    // "build/**": true,
+    "run/**": true,
+  },
+  "java.configuration.updateBuildConfiguration": "automatic",
+}
