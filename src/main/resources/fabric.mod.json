@@ -13,17 +13,13 @@
   },
   "license": "CC0-1.0",
   "icon": "assets/cmd5247/icon.png",
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
-    "main": [
-      "cmd5247.ExampleMod"
-    ],
     "client": [
-      "cmd5247.ExampleModClient"
+      "cmd5247.CMD"
     ]
   },
   "mixins": [
-    "cmd5247.mixins.json",
     {
       "config": "cmd5247.client.mixins.json",
       "environment": "client"

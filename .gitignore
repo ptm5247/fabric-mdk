@@ -7,3 +7,6 @@ run/*
 
 LICENSE
 README.md
+gradlew
+gradlew.bat
+settings.gradle
